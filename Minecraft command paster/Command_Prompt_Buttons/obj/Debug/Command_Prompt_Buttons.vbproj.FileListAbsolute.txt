@@ -1,0 +1,13 @@
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\bin\Debug\Command_Prompt_Buttons.exe.config
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\bin\Debug\Command_Prompt_Buttons.exe
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\bin\Debug\Command_Prompt_Buttons.pdb
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\bin\Debug\Command_Prompt_Buttons.xml
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.vbproj.AssemblyReference.cache
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.vbproj.SuggestedBindingRedirects.cache
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.Form1.resources
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.Resources.resources
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.vbproj.GenerateResource.cache
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.vbproj.CoreCompileInputs.cache
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.exe
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.xml
+E:\Alexia Folder\Personal Coding Projects\Minecraft command paster\Command_Prompt_Buttons\obj\Debug\Command_Prompt_Buttons.pdb
